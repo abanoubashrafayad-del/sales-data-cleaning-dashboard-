@@ -31,7 +31,7 @@ region, month, and category.
 
 ## Dashboard
 
-![Sales Dashboard](all files of the project/dashboard.PNG)
+[![Sales Dashboard](all files of the project/dashboard.PNG)](https://github.com/abanoubashrafayad-del/sales-data-cleaning-dashboard-/blob/main/all%20files%20of%20the%20project/dashboard.PNG)
 
 Three views into the cleaned data:
 - **Total Sales per Region** — bar chart across 5 regions
